@@ -1,4 +1,5 @@
-## How It Works
+https://ajarek.github.io/game-RIVER_STRIKE/
+## How It Works          
 # River Strike is a retro-style vertically scrolling combat game inspired by the classic River Raid. Here's what's under the hood:
 
 Core Mechanics
